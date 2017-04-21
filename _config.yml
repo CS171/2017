@@ -21,4 +21,4 @@ permalink: pretty
 collections:
  - lectures
 
-highlighter: pygments
+highlighter: rouge
