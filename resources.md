@@ -9,7 +9,9 @@ menu: Resources
 ## Required Textbooks
 
 * [Visual Thinking for Design](http://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966), Colin Ware, Morgan Kaufman (2008)
-* [Interactive Data Visualization for the Web](http://www.amazon.com/Interactive-Data-Visualization-Scott-Murray-ebook/dp/B00BSG68UQ),  Scott Murray, O’Reilly (2013) - *[Free online version](http://chimera.labs.oreilly.com/books/1230000000345)*
+* [Interactive Data Visualization for the Web](http://shop.oreilly.com/product/0636920037316.do),  Scott Murray, O’Reilly (2017) **Second edition! (The 2nd edition teaches D3 Version 4, which we will be using in this course!)** 
+
+<!-- [Free online version](http://chimera.labs.oreilly.com/books/1230000000345)-->
 
 ## Recommended Textbooks
 
@@ -22,9 +24,9 @@ menu: Resources
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
 
 [Official D3 Site](http://d3js.org/)  
-[Official D3 Wiki (version 3.x)](https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md)  
-[D3 API Reference](https://github.com/mbostock/d3/wiki/API-Reference)
-[D3 Tutorial by Scott Murray](http://alignedleft.com/tutorials/d3/) - required D3 textbook is based on this tutorial
+[Official D3 API reference (version 4)](https://github.com/d3/d3/blob/master/API.md)
+[Official D3 API reference (version 3.x)](https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md)  
+[D3 Tutorial by Scott Murray (D3 version 3)](http://alignedleft.com/tutorials/d3/)
 [Jerome Cukier's D3 Cheat Sheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)
 
 
@@ -57,7 +59,6 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 
 ## Web Sites & Blogs
 
-[eagereyes](http://eagereyes.org/)
 [Flowing Data](http://flowingdata.com/)
 [Visual Complexity](http://www.visualcomplexity.com/vc/)
 [Guardian DataBlog](http://www.guardian.co.uk/news/datablog)
