@@ -23,7 +23,7 @@ In this course you will learn how the human visual system processes and perceive
 
 ### Instructor
 
-[Johanna Beyer](http://vcg.seas.harvard.edu/people/)
+[Johanna Beyer](http://vcg.seas.harvard.edu/people/) - Senior Researcher, Visual Computing Lab
 
 ### Course Sessions
 
@@ -46,17 +46,18 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/30002)
 
 **Teaching Fellows**
 
-[Ronell Sicat](https://sites.google.com/view/ronellsicat) (Head TF) - Postdoctoral Fellow, Visual Computing Group 
-[Michael Behrisch](http://michael.behrisch.info/) - Postdoctoral Fellow, Visual Computing Group 
-Zona Kostic - Visiting Researcher, Web-based Interactive Visualization and Virtual Reality
-[Fritz Lekschas](http://lekschas.de/) - PhD Candidate, Visual Computing Group
-Charlene Hwang
+* [Ronell Sicat](https://sites.google.com/view/ronellsicat) (Head TF) - Postdoctoral Fellow, Visual Computing Group 
+* [Michael Behrisch](http://michael.behrisch.info/) - Postdoctoral Fellow, Visual Computing Group 
+* Zona Kostic - Visiting Researcher, Web-based Interactive Visualization and Virtual Reality
+* [Fritz Lekschas](http://lekschas.de/) - PhD Candidate, Visual Computing Group
+* Charlene Hwang
 
 **Graders**
 
-[Alain Ibrahim](http://alainibrahim.com) - Digital Product Development Manager who enjoys diving into both the functional and artistic dimensions of digital media
-Alexandra Abrahams
-Javier Cuan Martinez
+* [Alain Ibrahim](http://alainibrahim.com) - Digital Product Development Manager who enjoys diving into both the functional and artistic dimensions of digital media
+* Alexandra Abrahams
+* Javier Cuan Martinez
+
 TBA
 
 
