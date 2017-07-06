@@ -21,6 +21,8 @@ In this course you will learn how the human visual system processes and perceive
 
 **Cross-registering students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to staff@cs171.org with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
 
+**Extension school and online students:** Unfortunately, CS171 is currently not offered at the extension school anymore. 
+
 ### Instructor
 
 [Johanna Beyer](http://vcg.seas.harvard.edu/people/) - Senior Researcher, Visual Computing Lab
