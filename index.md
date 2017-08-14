@@ -58,7 +58,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/30002)
 
 * [Alain Ibrahim](http://alainibrahim.com) - Digital Product Development Manager who enjoys diving into both the functional and artistic dimensions of digital media
 * Alexandra Abrahams
-* Javier Cuan Martinez
+* Javier Cuan-Martinez
 
 TBA
 
