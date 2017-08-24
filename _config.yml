@@ -9,7 +9,7 @@ url: "http://www.cs171.org/"
 
 google_analytics: ""
 
-plugins: ./_plugins
+plugins_dir: ./_plugins
 
 # Build settings
 markdown: kramdown
