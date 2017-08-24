@@ -50,15 +50,15 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/30002)
 
 * [Ronell Sicat](https://sites.google.com/view/ronellsicat) (Head TF) - Postdoctoral Fellow, Visual Computing Group 
 * [Michael Behrisch](http://michael.behrisch.info/) - Postdoctoral Fellow, Visual Computing Group 
-* Zona Kostic - Visiting Researcher, Web-based Interactive Visualization and Virtual Reality
+* Zona Kostic - Visiting Researcher, Visual Computing Group
 * [Fritz Lekschas](http://lekschas.de/) - PhD Candidate, Visual Computing Group
 * Charlene Hwang
 
 **Graders**
 
-* [Alain Ibrahim](http://alainibrahim.com) - Digital Product Development Manager who enjoys diving into both the functional and artistic dimensions of digital media
+* [Alain Ibrahim](http://alainibrahim.com) - Digital Product Development Manager
 * Alexandra Abrahams
-* Javier Cuan Martinez
+* Javier Cuan-Martinez
 
 TBA
 
