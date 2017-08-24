@@ -17,7 +17,7 @@ In this course you will learn how the human visual system processes and perceive
 
 **Attention: CS 171 has moved to the fall semester, and from now on will be taught in the fall semester only!**
 
-**Limited enrollment:** To provide the best possible learning experience this course is limited to 70 students. If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (August 31st, 2:30pm) until Tuesday Sept 5th, 6pm.** The survey is available on our Canvas page.
+**Limited enrollment:** To provide the best possible learning experience this course is limited to 70 students. If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (August 31st, 2:30pm) until Monday Sept 4th, midnight.** The survey is available on our Canvas page.
 
 **Cross-registering students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to staff@cs171.org with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
 
