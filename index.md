@@ -59,9 +59,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/30002)
 * [Alain Ibrahim](http://alainibrahim.com) - Digital Product Development Manager
 * Alexandra Abrahams
 * Javier Cuan-Martinez
-
-TBA
-
+* Katherine Harrison
 
 
 
