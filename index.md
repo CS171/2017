@@ -53,6 +53,7 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/30002)
 * Zona Kostic - Visiting Researcher, Visual Computing Group
 * [Fritz Lekschas](http://lekschas.de/) - PhD Candidate, Visual Computing Group
 * Charlene Hwang
+* Nathan Lee
 
 **Graders**
 
