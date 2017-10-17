@@ -514,7 +514,7 @@ var node = svg.selectAll(&quot;.node&quot;)
 
 <p>The <em>d3.drag()</em> method allows interactive dragging of nodes. Use this method in conjunction with the call operator on the nodes:</p>
 
-<pre><code class="language-javascript">node.call(d3.drag)
+<pre><code class="language-javascript">node.call(d3.drag()
     .on(&quot;start&quot;, dragStarted)
         .on(&quot;drag&quot;, dragging)
         .on(&quot;end&quot;, dragEnded));</code></pre>
