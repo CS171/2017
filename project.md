@@ -18,14 +18,12 @@ The project milestones are:
 
 * Project proposal
 * Detailed project plan
-* Project re-design
 * Project prototypes V1 and V2
-* Project review with the staff (in studio)
+* Project review with the staff
 * Peer feedback (in studio)
 * Final project submission (including screen-cast)
 * Group peer evaluations
 * Project demos 
-* Presentation at the project showcase
 
 ## Implementation Requirements
 To get a sense about the scope of your final projects, please take a look at our [gallery]({{ site.baseurl }}/fame/) of projects from previous yers.
@@ -134,11 +132,11 @@ The entire project is worth 40% of the entire grade, the specific break-down of 
 
 * Project Proposal: 5%
 * Initial and Detailed project plan: 10%
+* Prototype V1: 15%
+* Prototype V2: 20% 
+* Final Project: 40%
 * Process Book: 5%
 * Project Video and Webpage: 5%
-* Project re-design: 15%
-* Prototype V1: 20%
-* Prototype V2 + Final Project: 40%
 
 For the final project submissions, please keep our main grading criteria in mind:
 
