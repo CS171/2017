@@ -5,6 +5,30 @@ permalink: /fame/
 order: 8
 menu: Fame
 ---
+## Best Projects Fall 2017
+These are the best projects (out of 25 in total) in 2017. 
+
+### Winner
+[Who Wins in the Sharing Economy?](https://sharing-economy-cs171.herokuapp.com/)
+Tansaya Kunaratskul, Jonathan Mazumdar and Ihsaan Patel
+
+### Runner Ups
+[Harvard Curricular History](https://youtu.be/09Qwyyy6WVE)
+Andrew Lund, Robert Roessler and Jason Stein
+
+[Data at Large](https://cs171-data-at-large.github.io/)
+Michelle Ho, Xindi Zhao and Ziqi Guo
+
+### Honorable Mentions
+[Education in Another's Shoes](https://fsikandar.github.io/CS171_FinalProject_Education/)
+Lydia Kim, Gaew Lertsuridej and Faran Sikandar
+
+[An Evergreen Planet: Preserving our World's Natural Forests](http://preservation.herokuapp.com/)
+Christine Zhang, Kevin Huang and Jesse Zhang
+
+[Stop and Frisk from all angles](https://samstone18.github.io/KL_SS_Final-Project/)
+Katherine Loboda and Samuel Stone
+
 ## Best Projects Fall 2016
 These are the best projects (out of 20 in total) in 2016. 
 
