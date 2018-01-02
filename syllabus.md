@@ -86,7 +86,8 @@ This course can be taken for a letter grade only, there is no pass/fail option. 
 
 Course participation includes in-class activities, submitted labs, one-minute papers, and other activities designed to help you learn. If you earn 80% of the participation points you will get full credit for participation; anything less will be prorated accordingly.
 
-To receive credit for studio attendance you must arrive on time.  You are allowed two excused studio absences without penalty; thereafter you will receive zero credit for the missed studio. To receive an excused absence you must ask your studio TF in advance and receive an acknowledgment.
+To receive credit for studio attendance you must arrive on time. <!-- You are allowed two excused studio absences without penalty; thereafter you will receive zero credit for the missed studio. To receive an excused absence you must ask your studio TF in advance and receive an acknowledgment.-->
+Please notify your studio TF in advance of your absence.
 
 There are several mandatory class meetings such as the midterm, guest lectures, project discussions, project demos, design fair, etc. Please check the schedule, plan accordingly, and do not miss these classes. 
 
